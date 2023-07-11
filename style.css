@@ -26,7 +26,7 @@ body{
     height: 1rem;
     text-align: center;
     text-transform: uppercase;
-    color: slategray;
+    color: transparent;
     padding-bottom: 0.2rem;
 }
 .container-error{
